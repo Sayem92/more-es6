@@ -16,4 +16,5 @@ const products = [
 // const prices = products.filter( pri => pri.price > 100)
 // const prices = products.filter( pri => pri.price < 40000)
 const prices = products.filter( pri => pri.price > 100000)
-console.log(prices)
+// console.log(prices)
+
